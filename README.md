@@ -1,5 +1,5 @@
 # How_to_SSW_IDL_Notebook
-![I must be crazy to find this](./example_screenshot.png)
+![I must be crazy to find this](example_screenshot.png)
 
 A dirty guide to use [IDL Notebook](https://www.nv5geospatialsoftware.com/Support/Maintenance-Detail/idl-notebooks-in-depth-tutorial) with [SolarSoft](https://soho.nascom.nasa.gov/solarsoft/).
 
@@ -34,7 +34,6 @@ You already have a working installation of IDL (>=8.9), SolarSoft, and VSCode wi
 5. In VSCode settings (JSON), change the `IDL_STARTUP` environment variable to point to the copied startup file. For example:
    ```json
    "idl.IDL.environment": {
-       ...
        "IDL_STARTUP": "/home/yjzhu/ssw_idl_startup.pro"
    }
    ```
