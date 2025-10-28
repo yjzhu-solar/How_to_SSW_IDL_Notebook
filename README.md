@@ -1,4 +1,6 @@
 # How_to_SSW_IDL_Notebook
+![I must be crazy to find this](./example_screenshot.png)
+
 A dirty guide to use [IDL Notebook](https://www.nv5geospatialsoftware.com/Support/Maintenance-Detail/idl-notebooks-in-depth-tutorial) with [SolarSoft](https://soho.nascom.nasa.gov/solarsoft/).
 
 Recently, I noticed the [IDL for VSCode](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) extension supports IDL Notebooks. This appears to be an insane idea to program IDL, which is gradually losing popularity in the solar physics community in the era of Python (avoiding `window, 0`).
