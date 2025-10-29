@@ -42,4 +42,4 @@ You already have a working installation of IDL (>=8.9), SolarSoft, and VSCode wi
     "idl.IDL.directory": "/usr/local/harris/idl89/bin/bin.linux.x86_64",
     ```
 7. Restart VSCode to make sure all settings are applied.
-8. Open a new IDL Notebook and try if you can run your favorite SSW routines in the notebook. An example can be found here: [example_notebook.idlnb](example_notebook.idlnb).
+8. Open a new IDL Notebook and try if you can run your favorite SSW routines in the notebook. An example can be found here: [example_notebook](https://yjzhu-solar.github.io//How_to_SSW_IDL_Notebook/example_notebook.html).
